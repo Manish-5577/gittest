@@ -16,5 +16,9 @@ public with sharing class gitchangestes {
      {
         system.debug('gitchanges');
      }
+     public gitchnagesdev()
+     {
+        system.debug('gitdevchchanges');
+     }
 
 }
