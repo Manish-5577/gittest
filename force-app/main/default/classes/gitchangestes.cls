@@ -16,9 +16,15 @@ public with sharing class gitchangestes {
      {
         system.debug('gitchanges');
      }
+
+     public gitchnagesdev()
+     {
+        system.debug('gitdevchchanges');
+
      public UATchange()
      {
         system.debug('ust commit');
+
      }
 
 }
